@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/open-nest-lpu.png" alt="OpenNest Logo" width="55%"/>
+  <img src="https://github.com/open-nest-lpu.png" alt="OpenNest Logo" width="16%"/>
 </p>
 
 <p align="center">
